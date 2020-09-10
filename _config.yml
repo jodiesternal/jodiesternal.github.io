@@ -1,11 +1,11 @@
 # Site settings
-author: global-listener-7039
-title: 
+author: Jodie Sternal
+title: Deciding Software Engineering
 header-img: img/home-bg.png
 email: jodiesternal@yahoo.com
-copyright_name: global-listener-7039
+copyright_name: Jodie Sternal
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jodiesternal
